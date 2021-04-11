@@ -1,0 +1,12 @@
+name: Flirt-Rewrite
+version: 1.0
+main: me.krymz0n.flirt.Main
+prefix: [ Flirt ]
+authors: [ KRYMZ0N ]
+description: A rewrite of my first plugin!
+website: http://www.16b16t.net/
+
+commands:
+  flirt:
+    aliases: [Flirt]
+    description: This is the flirt command!
